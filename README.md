@@ -1,5 +1,5 @@
 ## Neural Ordinary Differential Equations Network and its Extensions
-The original paper [Neural Ordinary Differential Equations](https://arxiv.org/pdf/1806.07366.pdf) that received the Best Paper Award at NeurIPS18 was very succinct and concise. In this Graduation Thesis, we explained step by step to make it clearer and easier to understand.
+The original paper [Neural Ordinary Differential Equations](https://arxiv.org/pdf/1806.07366.pdf) that received the Best Paper Award at NeurIPS18 was very succinct and concise. In this Graduation Thesis, we explained step by step to make it easier to understand.
 
 There are 3 remarkable things :
 
